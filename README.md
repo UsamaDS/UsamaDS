@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UsamaDS
 - 👀 I’m interested in Data Science, Computer Vision, IoT
-- 🌱 I’m currently learning Advance TensorFlow
+- 🌱 I’m currently learning pyTorch, and Advance TensorFlow
 - 💞️ I’m looking to collaborate on Data Science, IoT, Computer Vision
 - 📫 How to reach me https://www.linkedin.com/in/us1166
 
